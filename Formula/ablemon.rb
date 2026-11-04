@@ -1,10 +1,10 @@
-class LemonNg < Formula
+class Ablemon < Formula
   desc "Maintained fork of LEMON, a C++ library of graphs and network optimization"
-  homepage "https://github.com/dmeoli/lemon-ng"
-  url "https://github.com/dmeoli/lemon-ng/archive/refs/tags/1.4.1.tar.gz"
-  sha256 "60aeaf56b6bc32b97a34fccf1efb49de98c765b1b21865544ec686ddeeff5b2d"
+  homepage "https://github.com/dmeoli/abLEMON"
+  url "https://github.com/dmeoli/abLEMON/archive/refs/tags/1.6.0.tar.gz"
+  sha256 "19ff8a62faad00bb699a16ae7383dd3978c749f40ba5d5d3b01f8f00043e9de1"
   license all_of: ["BSL-1.0", "BSD-3-Clause"]
-  head "https://github.com/dmeoli/lemon-ng.git", branch: "master"
+  head "https://github.com/dmeoli/abLEMON.git", branch: "master"
 
   depends_on "cmake" => :build
 

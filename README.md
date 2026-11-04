@@ -1,8 +1,9 @@
-# lemon-ng tap
+# abLEMON tap
 
 The [Homebrew](https://brew.sh) formula of
-[lemon-ng](https://github.com/dmeoli/lemon-ng), a maintained fork of LEMON:
+[abLEMON](https://github.com/dmeoli/abLEMON) (formerly lemon-ng), a
+maintained fork of LEMON:
 
 ```sh
-brew install dmeoli/lemon-ng/lemon-ng
+brew install dmeoli/ablemon/ablemon
 ```
